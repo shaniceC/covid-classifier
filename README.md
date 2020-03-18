@@ -1,4 +1,4 @@
-# Covid19 Classifier
+# COVID-19 Classifier
 
 This project uses Keras to build a neural network to detect whether a person has COVID-19 by looking at the X-Ray chest images. The dataset contains 25 images of X-Rays for patients with COVID-19 and 25 images of X-Rays for healthy people.
 
